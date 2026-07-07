@@ -2,7 +2,7 @@
 
 **Building production AI systems — RAG pipelines, LLM applications, and MLOps infrastructure.**
 
-[Portfolio](https://janardhan-guntaka.github.io) · [LinkedIn](https://linkedin.com/in/janardhan-guntaka) · [Email](mailto:janardhanguntaka20@gmail.com)
+[LinkedIn](https://linkedin.com/in/janardhan-guntaka) · [Email](mailto:janardhanguntaka20@gmail.com)
 
 ---
 
