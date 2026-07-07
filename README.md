@@ -18,9 +18,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [TariffIQ](https://github.com/Janardhan-Guntaka/TarrifIQ) | Agentic RAG platform — 7-stage LangGraph pipeline classifying HTS tariff codes, deployed on AWS ECS Fargate | Python · LangGraph · OpenAI · pgvector · AWS ECS |
-| [Aegis Health](https://github.com/Janardhan-Guntaka/Aegis_Hospital_Privacy) | Fine-tuned Bio_ClinicalBERT for real-time clinical PHI detection (94.99% recall) with HIPAA governance over LLM outputs | Python · HuggingFace · PyTorch · FastAPI |
-| [NYC Taxi Forecasting](https://github.com/Janardhan-Guntaka/hourly_nyc_taxi_estimation) | Production ML system — 3 automated GitHub Actions pipelines processing millions of records with MLflow tracking | Python · LightGBM · Hopsworks · MLflow |
+| [TariffIQ](https://github.com/Janardhan-Guntaka/TarrifIQ) | Agentic RAG platform — 7-stage LangGraph pipeline classifying HTS tariff codes, deployed on AWS ECS Fargate | Python · LangGraph · OpenAI |
+| [Aegis Health](https://github.com/Janardhan-Guntaka/Aegis_Hospital_Privacy) | Fine-tuned Bio_ClinicalBERT for real-time clinical PHI detection (94.99% recall) with HIPAA governance over LLM outputs | Python · HuggingFace · HIPAA |
+| [AI Fairness Microservice](https://github.com/Janardhan-Guntaka/AI-Fairness-Microservice) | Enterprise microservice for bias detection & fairness auditing with REST API, Docker deployment, and comprehensive fairness metrics | Java · Spring Boot · Docker |
+| [NYC Taxi Forecasting](https://github.com/Janardhan-Guntaka/hourly_nyc_taxi_estimation) | Production ML system — 3 automated GitHub Actions pipelines processing millions of records with MLflow training & deployment | Python · MLflow · GitHub Actions |
 
 ---
 
